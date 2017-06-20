@@ -16,7 +16,7 @@ To run this program, you'll need:
 
 Step 1: Server side
 
-*	Run URL_Connection.py.
+*	Run Server.py.
 * Configure hostname for http server if need be (default is localhost:8080).
 
 Step 2: Client side
